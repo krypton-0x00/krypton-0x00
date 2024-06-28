@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Backend And DSA**
 
-- 👨‍💻 All of my projects are available at [shakirgulzar.tech](shakirgulzar.tech)
 
 - 📫 How to reach me **shakirgulzar0x00@gmail.com**
 
