@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krypton-0x00" alt="krypton-0x00" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shakir0x00_" target="blank"><img src="https://img.shields.io/twitter/follow/shakir0x00_?logo=twitter&style=for-the-badge" alt="shakir0x00_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shakir0x00_" target="blank"><img src="https://img.shields.io/twitter/follow/shakir_dev?logo=twitter&style=for-the-badge" alt="shakir_dev" /></a> </p>
 
 - 🌱 I’m currently learning **Backend And DSA**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shakir0x00_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakir0x00_" height="30" width="40" /></a>
+<a href="https://twitter.com/shakir_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakir0x00_" height="30" width="40" /></a>
 <a href="https://instagram.com/shakir0xn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakir0xn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shakirgulzar0x00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shakirgulzar0x00" height="30" width="40" /></a>
 </p>
