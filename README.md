@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shakir0x00_" target="blank"><img src="https://img.shields.io/twitter/follow/shakir_dev?logo=twitter&style=for-the-badge" alt="shakir_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Backend And DSA**
+- 🌱 I’m currently learning **DSA & Low Level Stuff**
 
 
 - 📫 How to reach me **shakirgulzar0x00@gmail.com**
