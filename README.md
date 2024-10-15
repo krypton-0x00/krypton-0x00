@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakir Gulzar</h1>
-<h3 align="center">🚀 College dropout turned code architect 🛠️ | Passionate about web dev 💻 | Building digital dreams one line at a time.</h3>
+<h3 align="center">🚀 Probably Learning New stuff......</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krypton-0x00&label=Profile%20views&color=0e75b6&style=flat" alt="krypton-0x00" /> </p>
 
