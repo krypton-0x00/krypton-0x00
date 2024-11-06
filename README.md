@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shakir Gulzar</h1>
 <h3 align="center">A tech Enthusiast | Rust Dev | IITian</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krypton-0x00&label=Profile%20views&color=0e75b6&style=flat" alt="krypton-0x00" /> </p>
+<p align="left"> Profile Views: 92031 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krypton-0x00" alt="krypton-0x00" /></a> </p>
 
