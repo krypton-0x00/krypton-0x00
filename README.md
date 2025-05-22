@@ -33,10 +33,4 @@
 <a target="_blank" href="https://www.youtube.com/@0xkrypton" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krypton-0x00" alt="krypton-0x00" /></a></p>
 
-
-
-![Profile views counter](https://komarev.com/ghpvc/?username=expressjs&&style=flat-square)  
-  
-<img src="https://github.com/krypton-0x00/krypton-0x00/blob/output/snake.svg"  />
-
 ###
