@@ -1,4 +1,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xshakir.png" alt="THM" />
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=168155" style='border:none;'></iframe>
+
 <h2>🚀 Languages and Tools </h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
