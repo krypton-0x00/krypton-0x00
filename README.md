@@ -1,4 +1,3 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xshakir.png" alt="THM" />
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=168155" style='border:none;'></iframe>
 
